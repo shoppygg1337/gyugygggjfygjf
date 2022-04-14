@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>FNStock.xyz</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Poppins:300,400,500,700"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+ <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="2c9d8032-c6a1-414e-9b8d-8a86e8ca69ac";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js%22;s.async=1;d.getElementsByTagName(%22head%22)[0].appendChild(s);%7D)();</script>
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center header-transparent burger-nav">
+    <div class="container d-flex justify-content-between align-items-center">
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#team">Shop</a></li>
+          <li><a class="nav-link scrollto" href="tos.html">T.O.S</a></li>
+          <li><a class="nav-link scrollto" href="feedback.html">Feedback</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="tlo">
+    <div class="hero-container" data-aos="zoom-in" data-aos-delay="100">
+      <h1>Welcome to FNStock<span id="whyas">.xyz</span></h1>
+      <h2>Best skins with cheapest price</h2>
+    </div>
+  </section><!-- End Hero Section -->
+
+  <main id="main">
+       <!-- ======= Team Section ======= -->
+       <section id="team" class="tlo">
+        <div class="container" data-aos="fade-up">
+          <div class="section-header">
+            <h3 class="section-title" id="whyas">Shop</h3>
+            <p class="section-description"></p>
+          </div>
+          <div class="row">
+            <div class="col-lg-3 col-md-6">
+              <div class="member" data-aos="fade-up" data-aos-delay="100">
+                <div class="pic"><img src="assets/img/frt/renegade.png" id="zdjencie"></div>
+                <h4 id="rene">Renegade Raider</h4><br>
+                <h6 id="h6usztka"><strong id="stronk">Bonus Skins: </strong>120-130</h6>
+                <h6 id="h6usztka"><strong id="stronk">Access</strong>: Full access</h6>
+                <h6 id="h6usztka"><strong id="stronk">Platform</strong>: XBOX, PC, PlayStation</h6>
+                <h6 id="h6usztka"><strong id="stronk">E-Mail Types</strong>: Gmail, Yahoo, iCloud</h6>
+                <h6 id="h6usztka">19,99$</h6><br>
+                <a href="https://www.paypal.com/donate/?hosted_button_id=ZT6PR7M6R8B9A" id="przycisk2137" target="_blank">Buy</a>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+  
+            <div class="col-lg-3 col-md-6">
+              <div class="member" data-aos="fade-up" data-aos-delay="100">
+                <div class="pic"><img src="assets/img/frt/szkielet.png" id="zdjencie"></div>
+                <h4 id="rene">Skull  Trooper</h4><br>
+                <h6 id="h6usztka"><strong id="stronk">Bonus Skins: </strong>120-130</h6>
+                <h6 id="h6usztka"><strong id="stronk">Access</strong>: Full access</h6>
+                <h6 id="h6usztka"><strong id="stronk">Platform</strong>: XBOX, PC, PlayStation</h6>
+                <h6 id="h6usztka"><strong id="stronk">E-Mail Types</strong>: Gmail, Yahoo, iCloud</h6>
+                <h6 id="h6usztka">19,99$</h6><br>
+                <a href="https://www.paypal.com/donate/?hosted_button_id=92792QL32DW8A" id="przycisk2137" target="_blank">Buy</a>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+  
+            <div class="col-lg-3 col-md-6">
+              <div class="member" data-aos="fade-up" data-aos-delay="300">
+                <div class="pic"><img src="assets/img/frt/szkieletka.png" id="zdjencie"></div>
+                <h4 id="rene">Ghoul Trooper</h4><br>
+                <h6 id="h6usztka"><strong id="stronk">Bonus Skins: </strong>120-130</h6>
+                <h6 id="h6usztka"><strong id="stronk">Access</strong>: Full access</h6>
+                <h6 id="h6usztka"><strong id="stronk">Platform</strong>: XBOX, PC, PlayStation</h6>
+                <h6 id="h6usztka"><strong id="stronk">E-Mail Types</strong>: Gmail, Yahoo, iCloud</h6>
+                <h6 id="h6usztka">19,99$</h6><br>
+                <a href="https://www.paypal.com/donate/?hosted_button_id=L59WTUNCFQC3A" id="przycisk2137" target="_blank">Buy</a>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+  
+            <div class="col-lg-3 col-md-6">
+              <div class="member" data-aos="fade-up" data-aos-delay="400">
+                <div class="pic"><img src="assets/img/frt/murzyn.png" id="zdjencie"></div>
+                <h4 id="rene">Aerial Assault Trooper</h4><br>
+                <h6 id="h6usztka"><strong id="stronk">Bonus Skins: </strong>120-130</h6>
+                <h6 id="h6usztka"><strong id="stronk">Access</strong>: Full access</h6>
+                <h6 id="h6usztka"><strong id="stronk">Platform</strong>: XBOX, PC, PlayStation</h6>
+                <h6 id="h6usztka"><strong id="stronk">E-Mail Types</strong>: Gmail, Yahoo, iCloud</h6>
+                <h6 id="h6usztka">19,99$</h6><br>
+                <a href="https://www.paypal.com/donate/?hosted_button_id=99T2ZTVQDP5L4" id="przycisk2137" target="_blank">Buy</a>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+  
+          <div class="row">
+            <div class="col-lg-3 col-md-6">
+              <div class="member" data-aos="fade-up" data-aos-delay="100">
+                <div class="pic"><img src="assets/img/frt/staryhuj.png" id="zdjencie"></div>
+                <h4 id="rene">Galaxy</h4><br>
+                <h6 id="h6usztka"><strong id="stronk">Bonus Skins: </strong>120-130</h6>
+                <h6 id="h6usztka"><strong id="stronk">Access</strong>: Full access</h6>
+                <h6 id="h6usztka"><strong id="stronk">Platform</strong>: XBOX, PC, PlayStation</h6>
+                <h6 id="h6usztka"><strong id="stronk">E-Mail Types</strong>: Gmail, Yahoo, iCloud</h6>
+                <h6 id="h6usztka">14,99$</h6><br>
+                <a href="https://www.paypal.com/donate/?hosted_button_id=SKM6GD95QGQ7N" id="przycisk2137" target="_blank">Buy</a>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+  
+            <div class="col-lg-3 col-md-6">
+              <div class="member" data-aos="fade-up" data-aos-delay="200">
+                <div class="pic"><img src="assets/img/frt/dzikikot.png" id="zdjencie"></div>
+                <h4 id="rene">Wildcat</h4><br>
+                <h6 id="h6usztka"><strong id="stronk">Bonus Skins: </strong>120-130</h6>
+                <h6 id="h6usztka"><strong id="stronk">Access</strong>: Full access</h6>
+                <h6 id="h6usztka"><strong id="stronk">Platform</strong>: XBOX, PC, PlayStation</h6>
+                <h6 id="h6usztka"><strong id="stronk">E-Mail Types</strong>: Gmail, Yahoo, iCloud</h6>
+                <h6 id="h6usztka">14,99$</h6><br>
+                <a href="https://www.paypal.com/donate/?hosted_button_id=C5VMLUGGV7TZA" id="przycisk2137" target="_blank">Buy</a>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+  
+            <div class="col-lg-3 col-md-6">
+              <div class="member" data-aos="fade-up" data-aos-delay="300">
+                <div class="pic"><img src="assets/img/frt/ikona.png" id="zdjencie"></div>
+                <h4 id="rene">Ikonik</h4><br>
+                <h6 id="h6usztka"><strong id="stronk">Bonus Skins: </strong>120-130</h6>
+                <h6 id="h6usztka"><strong id="stronk">Access</strong>: Full access</h6>
+                <h6 id="h6usztka"><strong id="stronk">Platform</strong>: XBOX, PC, PlayStation</h6>
+                <h6 id="h6usztka"><strong id="stronk">E-Mail Types</strong>: Gmail, Yahoo, iCloud</h6>
+                <h6 id="h6usztka">14,99$</h6><br>
+                <a href="https://www.paypal.com/donate/?hosted_button_id=KARDTMNDWNWFJ" id="przycisk2137" target="_blank">Buy</a>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+  
+            <div class="col-lg-3 col-md-6">
+              <div class="member" data-aos="fade-up" data-aos-delay="400">
+                <div class="pic"><img src="assets/img/frt/kutas.png" id="zdjencie"></div>
+                <h4 id="rene">Wonder</h4><br>
+                <h6 id="h6usztka"><strong id="stronk">Bonus Skins: </strong>120-130</h6>
+                <h6 id="h6usztka"><strong id="stronk">Access</strong>: Full access</h6>
+                <h6 id="h6usztka"><strong id="stronk">Platform</strong>: XBOX, PC, PlayStation</h6>
+                <h6 id="h6usztka"><strong id="stronk">E-Mail Types</strong>: Gmail, Yahoo, iCloud</h6>
+                <h6 id="h6usztka">14,99$</h6><br>
+                <a href="https://www.paypal.com/donate/?hosted_button_id=FYXEZAZ2CEY54" id="przycisk2137" target="_blank">Buy</a>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+  
+          
+  
+        </div>
+      </section><!-- End Team Section -->
+  
+
+
+
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="tlo">
+      <div class="container" data-aos="fade-up">
+        <div class="section-header">
+          <h3 class="section-title" id="whyas">WhyUs</h3>
+          <p class="section-description"></p>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+            <div class="box" id="bonus">
+              <div class="icon"><a href=""><i class="bi bi-briefcase"></i></a></div>
+              <h4 class="title"><a href="">GUARANTEE</a></h4>
+              <p class="description" id="trsu">All accounts have been checked before buy and we're sure they also work</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+            <div class="box" id="bonus">
+              <div class="icon"><a href=""><i class="bi bi-card-checklist"></i></a></div>
+              <h4 class="title"><a href="">FULL ACCESS</a></h4>
+              <p class="description" id="trsu">All accounts from FNStock.xyz are Full Email Access</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+            <div class="box" id="bonus">
+              <div class="icon"><a href=""><i class="bi bi-bar-chart"></i></a></div>
+              <h4 class="title"><a href="">RAREST ACCOUNTS</a></h4>
+              <p class="description" id="trsu">On our shop you can buy one of the Rarest Fortnite Accounts</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+            <div class="box" id="bonus">
+              <div class="icon"><a href=""><i class="bi bi-binoculars"></i></a></div>
+              <h4 class="title"><a href="">TRUST</a></h4>
+              <p class="description" id="trsu">We are a trusted store operating for several years</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+            <div class="box" id="bonus">
+              <div class="icon"><a href=""><i class="bi bi-brightness-high"></i></a></div>
+              <h4 class="title"><a href="">FAST SUPPORT</a></h4>
+              <p class="description" id="trsu">Our support team is working 24/7</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+            <div class="box" id="bonus">
+              <div class="icon"><a href=""><i class="bi bi-calendar4-week"></i></a></div>
+              <h4 class="title"><a href="">BONUS SKINS</a></h4>
+              <p class="description" id="trsu">We are giving bonus skins</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+    
+
+       
+
+
+
+
+ 
+
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>FNStock.xyz</strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+</body>
+
+</html>
